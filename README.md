@@ -30,7 +30,8 @@ pip install pandas scikit-learn
     ```bash
     cd house-price-prediction
     ```
-3. Run the script to train and evaluate the model:
+3. Ensure you have a dataset named `house_price.csv` in the project directory.
+4. Run the script to train and evaluate the model:
     ```bash
     python house_price.py
     ```
